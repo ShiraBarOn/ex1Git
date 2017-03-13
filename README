@@ -1,0 +1,17 @@
+ID:
+Nogah Blum, 203314364
+Shira Bar-On, 204403638
+
+Description of the ships AI:
+
+Unicorn:
+The unicorn is a gentle and cautious creature, so if is too close to other ships 
+it will turn the shield on and try to run away.
+If it is in a safe distance and not so far away from other enemies it will try to shoot them.
+Otherwise it will try to keep a safe distance from every other ship.
+
+SuperWoman:
+The superwoman is a fearless warrior, so if she finds a close enough enemy 
+she will try to get even closer, put her shield on 
+and if his shield is off she will attack him. 
+otherwise she will do nothing.
